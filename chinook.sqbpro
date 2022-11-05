@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="D:/Omar Elsaied/Amit Course/project's new septemper/sql project's/chinook/chinook.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3862"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,6:maintracks"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="albums" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="61"/><column index="2" value="300"/><column index="3" value="59"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="artists" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="customers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="83"/><column index="2" value="71"/><column index="3" value="83"/><column index="4" value="294"/><column index="5" value="264"/><column index="6" value="132"/><column index="7" value="44"/><column index="8" value="96"/><column index="9" value="80"/><column index="10" value="128"/><column index="11" value="122"/><column index="12" value="183"/><column index="13" value="98"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="employees" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="82"/><column index="2" value="71"/><column index="3" value="71"/><column index="4" value="124"/><column index="5" value="75"/><column index="6" value="129"/><column index="7" value="129"/><column index="8" value="178"/><column index="9" value="67"/><column index="10" value="44"/><column index="11" value="60"/><column index="12" value="80"/><column index="13" value="115"/><column index="14" value="115"/><column index="15" value="168"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="genres" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="112"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="invoice_items" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="94"/><column index="2" value="68"/><column index="3" value="56"/><column index="4" value="65"/><column index="5" value="64"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes><y_axis name="InvoiceId" line_style="1" point_shape="5" colour="#ffd320" active="0"/><y_axis name="InvoiceLineId" line_style="1" point_shape="5" colour="#7e0021" active="0"/><y_axis name="Quantity" line_style="1" point_shape="5" colour="#579d1c" active="0"/><y_axis name="TrackId" line_style="1" point_shape="5" colour="#004586" active="0"/><y_axis name="UnitPrice" line_style="1" point_shape="5" colour="#ff420e" active="0"/><y_axis name="_rowid_" line_style="1" point_shape="5" colour="#83caff" active="0"/></plot_y_axes><global_filter/></table><table schema="main" name="invoices" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="68"/><column index="2" value="83"/><column index="3" value="129"/><column index="4" value="264"/><column index="5" value="132"/><column index="6" value="80"/><column index="7" value="96"/><column index="8" value="116"/><column index="9" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="media_types" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="90"/><column index="2" value="164"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="playlist_track" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="67"/><column index="2" value="56"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_sequence" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="84"/><column index="2" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="tracks" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="56"/><column index="2" value="300"/><column index="3" value="61"/><column index="4" value="90"/><column index="5" value="59"/><column index="6" value="300"/><column index="7" value="84"/><column index="8" value="63"/><column index="9" value="65"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Chinook2.sql">-- first we gonig to asking about
+-- top 5 artist has albums ? 
+SELECT artists.Name , count(albums.ArtistId) &quot;Number of Album&quot;
+FROM albums
+JOIN artists on albums.ArtistId=artists.ArtistId
+GROUP by artists.Name
+ORDER by &quot;Number of Album&quot; DESC 
+LIMIT 7;
+
+-- second question
+-- Who are the top buying customer for music ?
+SELECT (customers.FirstName || &quot; &quot; || customers.LastName) as CustomerName ,
+ sum(invoices.Total) as total
+FROM invoices
+INNER JOIN customers on invoices.CustomerId = customers.CustomerId
+GROUP by CustomerName 
+ORDER by total DESC
+LIMIT 7;
+
+-- Third Question 
+-- who's the top media type format used?
+SELECT media_types.Name , count(tracks.MediaTypeId) as total
+FROM tracks
+JOIN media_types on tracks.MediaTypeId = media_types.MediaTypeId
+GROUP by media_types.Name
+ORDER by total DESC
+LIMIT 5;
+
+
+-- fourth question 
+-- who is the most supportive employee ?
+
+SELECT (employees.FirstName || &quot; &quot; || employees.LastName) as EmployeeName ,
+ count(customers.CustomerId) as &quot;Number of Customer&quot;
+FROM employees
+JOIN customers on employees.EmployeeId = customers.SupportRepId
+GROUP by EmployeeName; 
+
+
+-- fifthe question
+-- what is the most Country  buying music ?
+
+SELECT customers.Country , count(invoices.BillingCountry) &quot;Most Countery billing&quot;
+FROM invoices
+JOIN customers on invoices.BillingCountry = customers.Country
+GROUP by customers.Country 
+ORDER by &quot;Most Countery billing&quot; DESC
+LIMIT 7;
+
+-- Sixth question
+-- what is the most city  buying music ?
+
+
+SELECT customers.City , count(invoices.BillingCity) &quot;Most City billing&quot;
+FROM invoices
+JOIN customers on invoices.BillingCity = customers.City
+GROUP by customers.City 
+ORDER by &quot;Most City billing&quot; ;
+
+
+-- Seventh question
+-- what is the most  state buying music ?
+
+SELECT customers.State, count(invoices.BillingState) &quot;Most State billing&quot;
+FROM invoices
+JOIN customers on invoices.BillingState = customers.State
+GROUP by customers.State 
+ORDER by &quot;Most State billing&quot; DESC;
+
+
+-- Eighth question 
+-- who is the most gener id ?
+
+SELECT tracks.GenreId, count(genres.GenreId) &quot;Most GENER&quot;
+FROM genres
+JOIN tracks on genres.GenreId = tracks.GenreId
+GROUP by genres.GenreId 
+ORDER by &quot;Most GENER&quot; DESC;
+
+
+
+
+
+
+
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
